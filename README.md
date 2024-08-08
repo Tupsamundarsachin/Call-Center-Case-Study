@@ -29,5 +29,5 @@ To address these problems, the following approach was used:
     m) Call Distribution: Visualized the distribution of calls across various metrics.
 4. Analysis and Insights: Conducted analysis based on the dashboard visualizations to derive insights into call center performance, agent effectiveness, and areas for improvement.
 
-Conclusion
+CONCLUSION:
 The Call Center Data Analysis Dashboard provides a comprehensive view of call center operations, highlighting key metrics such as call volumes, agent performance, and customer satisfaction. By visualizing these metrics, the dashboard helps in identifying high-performing agents, understanding call handling efficiency, and improving overall customer service. This analysis is valuable for optimizing call center operations and enhancing the customer experience.
