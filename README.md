@@ -3,20 +3,17 @@ This project involves analyzing call center data using a Power BI dashboard. The
 
 PROBLEM STATEMENT:
 Effective call center management requires understanding various metrics related to call handling and agent performance. This includes tracking call volumes, resolution rates, agent efficiency, and customer satisfaction. The goal of this project is to address the following problems:
-1.How many calls are handled by the call center, and what proportion are answered and resolved?
-2. What is the performance of individual agents in terms of calls answered, call speed, and issue resolution?
+1. How many calls are handled by the call center, and what proportion are answered and resolved?
+2. What is the performance of individual agents in terms of calls answered, call speed and issue resolution?
 3. How does overall customer satisfaction correlate with call center metrics?
 4. What are the common issues faced and the distribution of calls by topic?
 
 
 APPROACH:
 To address these problems, the following approach was used:
-
-Data Collection: Collected comprehensive data on call center operations, including total calls, answered calls, issue resolutions, agent performance, and customer satisfaction.
-
-Data Cleaning: Processed and cleaned the data to ensure accuracy, handling any missing or inconsistent values.
-
-Dashboard Creation: Developed a Power BI dashboard with the following features:
+1. Data Collection: Collected comprehensive data on call center operations, including total calls, answered calls, issue resolutions, agent performance, and customer satisfaction.
+2. Data Cleaning: Processed and cleaned the data to ensure accuracy, handling any missing or inconsistent values.
+3. Dashboard Creation: Developed a Power BI dashboard with the following features:
 
 Total Calls: Displayed the total number of calls received by the call center.
 Answered Calls: Visualized the number of calls that were answered.
